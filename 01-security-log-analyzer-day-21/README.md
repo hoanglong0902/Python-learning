@@ -12,3 +12,11 @@ III/ Cách chạy
 1. Clone repo này về máy
 2. Đảm bảo có file `security.log` cùng thư mục với `main.py`
 3. Chạy lệnh:
+4. Làm theo menu hiện ra, chọn số 1-4 tương ứng chức năng muốn dùng
+
+IV/ Công nghệ sử dụng
+1. Python (chỉ dùng thư viện chuẩn, không cần cài thêm gì)
+
+### Ghi chú
+Đây là project mình tự học Python, dùng để luyện tập xử lý file, 
+vòng lặp và cấu trúc điều kiện.
