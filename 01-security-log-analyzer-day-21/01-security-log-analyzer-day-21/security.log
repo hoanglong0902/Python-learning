@@ -1,6 +1,0 @@
-INFO: User admin logged in
-ERROR: Unauthorized access attempt from 192.168.1.100
-INFO: User user1 logged out
-ERROR: Failed password for root from 10.0.0.5
-WARNING: High CPU usage
-ERROR: Unauthorized access attempt from 192.168.1.100
