@@ -4,9 +4,9 @@ Công cụ phân tích file log bảo mật (security.log) bằng Python — đ�
 tìm từ khóa, và kiểm tra IP đáng ngờ.
 
 II/ Tính năng
-- Đếm tổng số dòng chứa "ERROR" trong log
-- Tìm kiếm theo từ khóa bất kỳ trong log
-- Kiểm tra số lần xuất hiện của 1 địa chỉ IP cụ thể
+1. Đếm tổng số dòng chứa "ERROR" trong log
+2. Tìm kiếm theo từ khóa bất kỳ trong log
+3. Kiểm tra số lần xuất hiện của 1 địa chỉ IP cụ thể
 
 III/ Cách chạy
 1. Clone repo này về máy
