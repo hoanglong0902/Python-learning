@@ -23,7 +23,7 @@ def tim_tu_khoa(tu_khoa):
         print("Hãy nhập lại")
 
 #TÌM IP ĐỘC
-def quet_ip_doc(ip_can_tim):                                #ip_can_tim: Là 1 đoạn chuỗi ngắn1
+def quet_ip_doc(ip_can_tim):                                #ip_can_tim: Là 1 đoạn chuỗi ngắn
     mo_file=open("security.log","r")                        #mo_file : là 1 đoạn chuỗi dài
     so_lan_xh=0
     for ip_can_kiem in mo_file:                             #ip_can_kiem : Nó đang nằm trong mo_file , mà mo_file là đoạn chuỗi dài => ip_can_kiem cũng là đoạn chuỗi dài
